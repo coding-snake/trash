@@ -2,6 +2,6 @@
 
 List of licenses for each icon
 
-- docker.svg
-  - Source: https://www.svgrepo.com/svg/331370/docker
-  - License: CC0 License
+|icon|name|license|source|
+|:-:|:-:|:-:|:-:|
+|<img src="./docker.svg">|docker.svg|CC0 License|https://www.svgrepo.com/svg/331370/docker|
